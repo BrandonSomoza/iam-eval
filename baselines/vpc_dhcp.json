@@ -1,0 +1,25 @@
+{
+  "Action": [
+    "ec2:AssociateDhcpOptions",
+    "ec2:AssociateSubnetCidrBlock",
+    "ec2:CreateDhcpOptions",
+    "ec2:CreateSubnet",
+    "ec2:CreateTags",
+    "ec2:CreateVPC",
+    "ec2:DeleteDhcpOptions",
+    "ec2:DeleteSubnet",
+    "ec2:DeleteTags",
+    "ec2:DeleteVPC",
+    "ec2:DescribeAccountAttributes",
+    "ec2:DescribeDhcpOptions",
+    "ec2:DescribeNetworkAcls",
+    "ec2:DescribeNetworkInterfaces",
+    "ec2:DescribeSubnets",
+    "ec2:DescribeVpcAttribute",
+    "ec2:DescribeVpcs",
+    "ec2:DisassociateSubnetCidrBlock",
+    "ec2:ModifySubnetAttribute",
+    "ec2:ModifyVpcAttribute",
+    "ec2:ModifyVpcTenancy"
+  ]
+}

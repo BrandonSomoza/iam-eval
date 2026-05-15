@@ -1,0 +1,30 @@
+{
+  "Action": [
+    "ec2:AssociateRouteTable",
+    "ec2:AssociateSubnetCidrBlock",
+    "ec2:CreateRouteTable",
+    "ec2:CreateSubnet",
+    "ec2:CreateTags",
+    "ec2:CreateVPC",
+    "ec2:CreateVpcPeeringConnection",
+    "ec2:DeleteRouteTable",
+    "ec2:DeleteSubnet",
+    "ec2:DeleteTags",
+    "ec2:DeleteVPC",
+    "ec2:DeleteVpcPeeringConnection",
+    "ec2:DescribeAccountAttributes",
+    "ec2:DescribeNetworkAcls",
+    "ec2:DescribeNetworkInterfaces",
+    "ec2:DescribeRouteTables",
+    "ec2:DescribeSubnets",
+    "ec2:DescribeVpcAttribute",
+    "ec2:DescribeVpcPeeringConnections",
+    "ec2:DescribeVpcs",
+    "ec2:DisassociateRouteTable",
+    "ec2:DisassociateSubnetCidrBlock",
+    "ec2:ModifySubnetAttribute",
+    "ec2:ModifyVpcAttribute",
+    "ec2:ModifyVpcTenancy",
+    "ec2:ReplaceRouteTableAssociation"
+  ]
+}
